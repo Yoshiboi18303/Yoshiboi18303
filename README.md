@@ -1,17 +1,22 @@
-## Hi there, I'm Yoshiboi18303!
-I'm a Coder, Music Producer, and Gamer!
+# Hello!
+I'm *Yoshiboi18303*!
 
---------------------------------------------
+---
 
-# What do I do?
-I usually make Discord Bots, or anything I can do.
+# What am I?
+I am a gamer, music producer, and developer!
 
---------------------------------------------
+---
 
-## What Discord Bots do you have that are Open-Source?
-My Open-Source bots are [Econoshi_Bot](https://github.com/Yoshiboi18303/Econoshi_Bot-Code), and [Remi](https://github.com/Yoshiboi18303/Remi-Bot-Code) so far!
+# What do I develop?
+I am the owner of [discord-commanding](https://github.com/Yoshiboi18303/Discord-Commanding), [Javpurpose](https://github.com/Yoshiboi18303/Javpurpose), [Skyline Bots](https://github.com/Yoshiboi18303/Skyline-Bots), and many other items!
 
---------------------------------------------
+---
 
-## What are you currently working on right now?
-I'm currently working on a [Personal Website](https://pasteboard.co/K23VRBa.png)
+## Do I work in any Discord Servers?
+Yes, actually! I am an admin on [BoatSpace](https://discord.gg/ckDG9EUDNJ)!
+
+---
+
+# Links
+[Website](https://yoshiboi18303.tk/), [Discord Server](https://discord.gg/cQufqJmc7J)
