@@ -14,9 +14,14 @@ I am the owner of [discord-commanding](https://github.com/Yoshiboi18303/Discord-
 ---
 
 ## Do I work in any Discord Servers?
-Yes, actually! I am an admin on [BoatSpace](https://discord.gg/ckDG9EUDNJ)!
+Yes, actually! I am an admin on [BoatSpace](https://discord.gg/kVSzQnHZVC)!
 
 ---
 
 # Links
 [Website](https://yoshiboi18303.tk/), [Discord Server](https://discord.gg/cQufqJmc7J)
+
+---
+
+[![Yoshiboi18303's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshiboi18303&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshiboi18303&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
