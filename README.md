@@ -14,7 +14,7 @@ I am the owner of [discord-commanding](https://github.com/Yoshiboi18303/Discord-
 ---
 
 ## Do I work in any Discord Servers?
-Yes, actually! I am an admin on [BoatSpace](https://discord.gg/kVSzQnHZVC)!
+Yes, actually! I am an `Admin` on [BoatSpace](https://discord.gg/kVSzQnHZVC) and a `Website Moderator` on [Discord Lists](https://discord.gg/mKYgZ87GPE)!
 
 ---
 
