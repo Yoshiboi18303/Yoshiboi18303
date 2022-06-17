@@ -9,12 +9,12 @@ I am a gamer, music producer, and developer!
 ---
 
 # What do I develop?
-I am the owner of [discord-commanding](https://github.com/Yoshiboi18303/Discord-Commanding), [Javpurpose](https://github.com/Yoshiboi18303/Javpurpose), [Skyline Bots](https://github.com/Yoshiboi18303/Skyline-Bots), and many other items!
+I am the owner of [discord-commanding](https://github.com/Yoshiboi18303/Discord-Commanding), [Javpurpose](https://github.com/Yoshiboi18303/Javpurpose), [Skyline Bots](https://github.com/Yoshiboi18303/Skyline-Bots), and many other cool things!
 
 ---
 
 ## Do I work in any Discord Servers?
-Yes, actually! I am an `Admin` on [BoatSpace](https://discord.gg/kVSzQnHZVC) and a `Website Moderator` on [Discord Lists](https://discord.gg/mKYgZ87GPE)!
+Yes, actually! I am an `Admin` on [BoatSpace](https://discord.gg/kVSzQnHZVC) and a `Head Admin` on [Discord Lists](https://discord.gg/XFktDb9Ev3)!
 
 ---
 
