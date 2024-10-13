@@ -9,17 +9,29 @@ I am a gamer and developer!
 ---
 
 ## What do I develop?
-I am the owner of many different projects such as **[Thing Bot](https://github.com/Yoshiboi18303/Thing-Bot)**, the **[Apex Legend Choosers](https://yoshiboi18303.github.com/apex-mini-randomizer)**, and much more!
+I am mainly a **web developer**, although I do develop other stuff like Discord bots. I am also wanting to become a mobile app developer at some point, so stay tuned!
 
 ---
 
-## Do I work in any Discord Servers?
-Yes, actually! I am an `Admin` on **[BoatSpace](https://discord.gg/kVSzQnHZVC)** and a part of `Management` on **[Discord Lists](https://discord.gg/XFktDb9Ev3)**!
+## What languages do I develop in?
+
+- I mainly use [TypeScript](https://www.typescriptlang.org/) for most of my personal projects
+- I use [Vue](https://vuejs.org/) and [Nuxt](https://nuxt.com) for my websites for the time being
+
+I also use Python sometimes for small personal scripts as well as PowerShell.
+
+---
+
+## What do I use?
+
+Mainly [VS Code](https://code.visualstudio.com) for development, but once I have money for the JetBrains IDEs, you bet I'm dropping that part of Microsoft.
+
+I also use **Windows 11 Pro** for now, until Linux is mostly stable hardware wise ([read here for more info](https://gist.github.com/Yoshiboi18303/ae9a56abc27502005c8fd58bdaee5126)).
 
 ---
 
 ## Links
-[Website](https://yoshiboi18303.tk/), [Discord Server](https://discord.gg/cQufqJmc7J)
+[Website](https://yoshiboi18303.vercel.app/) - [Discord Server](https://discord.gg/PDJbM6tHzY) - [Twitch](https://twitch.tv/yoshiboi18303)
 
 ---
 
