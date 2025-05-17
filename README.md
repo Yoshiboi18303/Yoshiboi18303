@@ -17,8 +17,9 @@ I am mainly a **web developer**, although I do develop other stuff like Discord 
 
 - I mainly use [TypeScript](https://www.typescriptlang.org/) for most of my personal projects
 - I use [Vue](https://vuejs.org/) and [Nuxt](https://nuxt.com) for my websites for the time being
+- I am also currently trying to learn [Rust](https://www.rust-lang.org/) to move away from TypeScript
 
-I also use Python sometimes for small personal scripts as well as PowerShell.
+I also use Python sometimes for small personal scripts as well as PowerShell/Bash.
 
 ---
 
@@ -26,12 +27,12 @@ I also use Python sometimes for small personal scripts as well as PowerShell.
 
 Mainly [VS Code](https://code.visualstudio.com) for development, but once I have money for the JetBrains IDEs, you bet I'm dropping that part of Microsoft.
 
-I also use **Windows 11 Pro** for now, until Linux is mostly stable hardware wise ([read here for more info](https://gist.github.com/Yoshiboi18303/ae9a56abc27502005c8fd58bdaee5126)).
+I also use [EndeavourOS](https://endeavouros.com/) after getting fed up with Microsoft, trying to learn Neovim as well.
 
 ---
 
 ## Links
-[Website](https://yoshiboi18303.vercel.app/) - [Discord Server](https://discord.gg/PDJbM6tHzY) - [Twitch](https://twitch.tv/yoshiboi18303)
+[Website](https://yoshiboi18303.carrd.co/) - [Discord Server](https://discord.gg/PDJbM6tHzY) - [Twitch](https://twitch.tv/yoshiboi18303)
 
 ---
 
