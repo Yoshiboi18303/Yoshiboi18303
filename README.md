@@ -1,3 +1,9 @@
+# NOTE
+
+This account is now dead, I'm moving to **[Codeberg](https://codeberg.org/Yoshiboi18303)** to get away from Microsoft for a bit.
+
+---
+
 # Hello!
 I'm *Yoshiboi18303*!
 
