@@ -1,6 +1,6 @@
 # NOTE
 
-This account is now dead, I'm moving to **[Codeberg](https://codeberg.org/Yoshiboi18303)** to get away from Microsoft for a bit.
+This account will not have any new repositories made, I'm moving to publishing repos on **[Codeberg](https://codeberg.org/Yoshiboi18303)** to get away from Microsoft for a bit. I will still be doing pull requests and issues on existing repositories here on GitHub though.
 
 ---
 
@@ -21,7 +21,7 @@ I am mainly a **web developer**, although I do develop other stuff like Discord 
 
 ## What languages do I develop in?
 
-- I mainly use [TypeScript](https://www.typescriptlang.org/) for most of my personal projects
+- I mainly use [TypeScript](https://www.typescriptlang.org/)/[Rust](https://www.rust-lang.org/) for most of my personal projects
 - I use [Vue](https://vuejs.org/) and [Nuxt](https://nuxt.com) for my websites for the time being
 - I am also currently trying to learn [Rust](https://www.rust-lang.org/) to move away from TypeScript
 
